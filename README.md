@@ -1,2 +1,3 @@
 # Mechanical-Egineering-Magazine
-Mechonz Magazine
+Monthly Magazine on Current Trends in Mechanical Engineering
+
